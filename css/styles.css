@@ -1,0 +1,17 @@
+h1 {
+  margin: 50px;
+  text-align: center;
+}
+
+
+.container {
+  width: 50%;
+  border: 3px solid;
+  padding: 30px;
+}
+
+#output{
+  margin-top: 50px;
+  font-size: 30px;
+  text-align: center;
+}
